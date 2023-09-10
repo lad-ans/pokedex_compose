@@ -1,1 +1,1 @@
-An android application based on kotlin ketpack compose library
+An android application based on kotlin jetpack compose library
